@@ -15,7 +15,7 @@
 # Hi 👋 I'm Ahmed Khmis
 
 🚀 Lead Flutter Developer | Mobile & Frontend Engineer  
-📍 Tunisia | 🌍 Open to Remote Opportunities  
+📍 Tunisia | 🌍 Open to Opportunities  
 
 ---
 
