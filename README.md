@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://ahmedkhmis-dev.web.app/">
+    <img src="https://raw.githubusercontent.com/ahmedkhmis/ahmedkhmis/main/banner.png" />
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ahmed Khmis</h1>
+<h3 align="center">🚀 Lead Flutter Developer | Mobile & Frontend Engineer</h3>
+
+<p align="center">
+  📍 Tunisia • 🌍 Open to Remote Opportunities
+</p>
+
+---
 # Hi 👋 I'm Ahmed Khmis
 
 🚀 Lead Flutter Developer | Mobile & Frontend Engineer  
