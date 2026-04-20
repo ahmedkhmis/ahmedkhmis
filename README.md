@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Lead Flutter Developer | Mobile & Frontend Engineer</h3>
 
 <p align="center">
-  📍 Tunisia • 🌍 Open to Remote Opportunities
+  📍 Tunisia • 🌍 Open to Opportunities
 </p>
 
 ---
