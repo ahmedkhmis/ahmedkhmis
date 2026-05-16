@@ -103,17 +103,21 @@
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedkhmis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedkhmis&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 <p align="center">
    <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedkhmis&theme=tokyonight"
-  />
-      <img 
-        height = 300rem
+        height = 200rem
     src="https://ghstats.dev/api/card?username=ahmedkhmis&theme=tokyonight" 
   />
+   <img 
+             height = 200rem
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedkhmis&theme=tokyonight"
+  />
+     
  
-
 </p>
 
 ### ⚡ Fun Fact
