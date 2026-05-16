@@ -105,11 +105,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedkhmis&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhmis&layout=compact&theme=tokyonight"/>
-</p>
+   <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedkhmis&theme=tokyonight"
+  />
+      <img 
+        height = 300rem
+    src="https://ghstats.dev/api/card?username=ahmedkhmis&theme=tokyonight" 
+  />
+ 
 
----
+</p>
 
 ### ⚡ Fun Fact
 
