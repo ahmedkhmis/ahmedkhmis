@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://ahmedkhmis-dev.web.app/">
-    <img src="https://raw.githubusercontent.com/ahmedkhmis/ahmedkhmis/main/banner.png" />
-  </a>
-</p>
-
 <div align="center">
-
+  
 # Ahmed Khmis
 
 #### `Senior Flutter Engineer` · `Mobile Tech Lead` · `Full-Stack Developer`
