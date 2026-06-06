@@ -3,9 +3,22 @@
 # Ahmed Khmis
 
 #### `Senior Flutter Engineer` · `Mobile Tech Lead` · `Full-Stack Developer`
+<p>
+  <a href="https://ahmedkhmis-dev.web.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-02569B?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmedkhmis">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/belhadj-ayat-errahmen-352308223/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+apps...;Clean+Architecture+%7C+BLoC+%7C+Cubit;Mobile+Tech+Lead+%F0%9F%9A%80;Shipping+production-ready+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=800&lines=Flutter+Engineer+💙;Clean+Architecture+%7C+BLoC+%7C+Cubit;Building+Scalable+Mobile+Applications;Turning+Ideas+Into+Production+Apps" />
+
 </div>
+
 
 ## 👋 About Me
 
@@ -139,6 +152,20 @@ Dec 2023 - Feb 2024     Flutter Developer @ Sports Analytics Platform
 Aug 2023 - Nov 2023     Mobile Engineer @ WindERP Enterprise System
 Feb 2023 - Jun 2023     Full-Stack Engineer @ Alvetrina Marketplace
 ```
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://ahmedkhmis-dev.web.app/">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-ahmedkhmis--dev.web.app-02569B?style=for-the-badge" />
+</a>
+
+
+<br><br>
+
+💙 A showcase of my Flutter applications, technical leadership journey,
+architecture decisions, and production-ready projects.
+</div>
 
 ### Highlights
 
