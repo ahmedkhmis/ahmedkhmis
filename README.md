@@ -10,7 +10,7 @@
   <a href="https://github.com/ahmedkhmis">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/belhadj-ayat-errahmen-352308223/">
+  <a href="https://www.linkedin.com/in/ahmed-khmis-460283199/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
